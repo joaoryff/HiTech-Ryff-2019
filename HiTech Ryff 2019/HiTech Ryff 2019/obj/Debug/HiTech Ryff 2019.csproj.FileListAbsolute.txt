@@ -1,0 +1,37 @@
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HiTech Ryff 2019\bin\Debug\HiTech Ryff 2019.exe.config
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HiTech Ryff 2019\bin\Debug\HiTech Ryff 2019.exe
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HiTech Ryff 2019\bin\Debug\HiTech Ryff 2019.pdb
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HiTech Ryff 2019\obj\Debug\HiTech Ryff 2019.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HiTech Ryff 2019\obj\Debug\HiTech_Ryff_2019.Properties.Resources.resources
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HiTech Ryff 2019\obj\Debug\HiTech Ryff 2019.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HiTech Ryff 2019\obj\Debug\HiTech Ryff 2019.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HiTech Ryff 2019\obj\Debug\HiTech Ryff 2019.exe
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HiTech Ryff 2019\obj\Debug\HiTech Ryff 2019.pdb
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HiTech Ryff 2019\obj\Debug\HiTech_Ryff_2019.MIS.resources
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HiTech Ryff 2019\obj\Debug\HiTech_Ryff_2019.GUI.Sales.resources
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HiTech Ryff 2019\bin\Debug\EntityFramework.dll
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HiTech Ryff 2019\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HiTech Ryff 2019\bin\Debug\EntityFramework.xml
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HiTech Ryff 2019\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HiTech Ryff 2019\obj\Debug\HiTech Ryff 2019.csproj.CopyComplete
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HiTech Ryff 2019\bin\Debug\HitechEntityFramework.exe
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HiTech Ryff 2019\bin\Debug\HitechEntityFramework.pdb
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HiTech Ryff 2019\bin\Debug\HitechEntityFramework.exe.config
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HiTech Ryff 2019\bin\Debug\HiTech Ryff 2019.exe.config
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HiTech Ryff 2019\bin\Debug\HiTech Ryff 2019.exe
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HiTech Ryff 2019\bin\Debug\HiTech Ryff 2019.pdb
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HiTech Ryff 2019\bin\Debug\EntityFramework.dll
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HiTech Ryff 2019\bin\Debug\EntityFramework.SqlServer.dll
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HiTech Ryff 2019\bin\Debug\HitechEntityFramework.exe
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HiTech Ryff 2019\bin\Debug\EntityFramework.xml
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HiTech Ryff 2019\bin\Debug\EntityFramework.SqlServer.xml
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HiTech Ryff 2019\bin\Debug\HitechEntityFramework.pdb
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HiTech Ryff 2019\bin\Debug\HitechEntityFramework.exe.config
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HiTech Ryff 2019\obj\Debug\HiTech Ryff 2019.csprojAssemblyReference.cache
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HiTech Ryff 2019\obj\Debug\HiTech_Ryff_2019.MIS.resources
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HiTech Ryff 2019\obj\Debug\HiTech_Ryff_2019.GUI.Sales.resources
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HiTech Ryff 2019\obj\Debug\HiTech_Ryff_2019.Properties.Resources.resources
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HiTech Ryff 2019\obj\Debug\HiTech Ryff 2019.csproj.GenerateResource.cache
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HiTech Ryff 2019\obj\Debug\HiTech Ryff 2019.csproj.CopyComplete
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HiTech Ryff 2019\obj\Debug\HiTech Ryff 2019.exe
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HiTech Ryff 2019\obj\Debug\HiTech Ryff 2019.pdb

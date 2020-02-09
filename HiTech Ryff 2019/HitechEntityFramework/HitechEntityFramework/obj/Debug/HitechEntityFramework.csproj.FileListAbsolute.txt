@@ -1,0 +1,53 @@
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\bin\Debug\HitechEntityFramework.exe.config
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\bin\Debug\HitechEntityFramework.pdb
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\obj\Debug\HitechEntityFramework.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\obj\Debug\HitechEntityFramework.Properties.Resources.resources
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\obj\Debug\HitechEntityFramework.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\obj\Debug\HitechEntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\obj\Debug\HitechEntityFramework.csproj.CopyComplete
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\obj\Debug\HitechEntityFramework.exe
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\obj\Debug\HitechEntityFramework.pdb
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\obj\Debug\HitechEntityFramework.Inventory.resources
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\obj\Debug\HitechEntityFramework.AuthorForm.resources
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\obj\Debug\HitechEntityFramework.OrderForm.resources
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\bin\Debug\HiTech Ryff 2019.exe
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\bin\Debug\HiTech Ryff 2019.pdb
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\bin\Debug\HitechEntityFramework.exe
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\obj\Debug\HitechEntityFramework.LogIn.resources
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\obj\Debug\HitechEntityFramework.Userform.resources
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\obj\Debug\HitechEntityFramework.SupplierForm.resources
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\obj\Debug\HitechEntityFramework.PublisherForm.resources
+C:\Users\Admin\OneDrive\LaSAlle\EventProgramming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\obj\Debug\HitechEntityFramework.Account.resources
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\bin\Debug\HitechEntityFramework.exe.config
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\bin\Debug\HitechEntityFramework.exe
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\bin\Debug\HitechEntityFramework.pdb
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\bin\Debug\EntityFramework.dll
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\bin\Debug\HiTech Ryff 2019.exe
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\bin\Debug\EntityFramework.xml
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\bin\Debug\HiTech Ryff 2019.pdb
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\obj\Debug\HitechEntityFramework.csprojAssemblyReference.cache
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\obj\Debug\HitechEntityFramework.Account.resources
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\obj\Debug\HitechEntityFramework.AuthorForm.resources
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\obj\Debug\HitechEntityFramework.Inventory.resources
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\obj\Debug\HitechEntityFramework.LogIn.resources
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\obj\Debug\HitechEntityFramework.OrderForm.resources
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\obj\Debug\HitechEntityFramework.Properties.Resources.resources
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\obj\Debug\HitechEntityFramework.PublisherForm.resources
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\obj\Debug\HitechEntityFramework.SupplierForm.resources
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\obj\Debug\HitechEntityFramework.Userform.resources
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\obj\Debug\HitechEntityFramework.csproj.GenerateResource.cache
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\obj\Debug\HitechEntityFramework.csproj.CopyComplete
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\obj\Debug\HitechEntityFramework.exe
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\obj\Debug\HitechEntityFramework.pdb
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\bin\Debug\NPOI.dll
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\bin\Debug\NPOI.OOXML.dll
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\bin\Debug\NPOI.OpenXml4Net.dll
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\LaSalle\4-Event Programming\HiTech Ryff 2019\HitechEntityFramework\HitechEntityFramework\bin\Debug\ICSharpCode.SharpZipLib.xml
